@@ -16,12 +16,12 @@
     min-height: 100vh;
 }
 
-p{
+.p{
     font-size: 32px;
     font-weight: 400px;
     color: white;
-    /* display: flex; */
-    padding: 16px 186px;
+    text-align: center;
+    padding-bottom: 16px;
 }
 h1{
     font-size: 72px;
@@ -34,4 +34,39 @@ h1{
     height: 253px;
     width: 632px;
     padding: 182px 344px;
+}
+
+/* new year offer section */
+h2{
+    color: red;
+    text-align: center;
+    font-size: 88px;
+    font-weight: bold;
+    font-family: inter;
+    margin-top: 120px;
+    padding-bottom: 48px;
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: inter;
+    padding-bottom: 16px;
+
+}
+h3{
+    color: black;
+    font-family: inter;
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 48px;
+}
+
+.new-year-img{
+   height: 450px;
+   width: 700px;
+   margin-left: 25%;
+
 }
